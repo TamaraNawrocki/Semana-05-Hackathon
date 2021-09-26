@@ -1,10 +1,12 @@
-import Greeting from "../components/Greeting";
 import "./App.css";
+import AllTogether from "./components/AllTogether";
 
 function App() {
   return (
     <div className="App">
-      <Greeting />
+      <div className="container">
+        <AllTogether />
+      </div>
     </div>
   );
 }
