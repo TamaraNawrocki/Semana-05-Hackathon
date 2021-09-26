@@ -6,9 +6,9 @@ const AllTogether = () => {
     <div className="greet-container">
       <Header />
       <Form />
-      <p className="question">Forgot password?</p>
+      <p className="question">Forgot Password?</p>
       <button className="button-login">login</button>
-      <p className="create">Create Acount</p>
+      <p className="create">Create Account</p>
     </div>
   );
 };
